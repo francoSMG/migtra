@@ -1,0 +1,286 @@
+[
+  {
+    "name": "Region1", 
+    "children": [
+      {
+        "name": "Provincia1", 
+        "children": [
+          {
+            "values": {
+              "var1": 10, 
+              "var2": 150
+            }, 
+            "name": "Ciudad1"
+          }, 
+          {
+            "values": {
+              "var1": 15, 
+              "var2": 120
+            }, 
+            "name": "Ciudad2"
+          }, 
+          {
+            "values": {
+              "var1": 12, 
+              "var2": 190
+            }, 
+            "name": "Ciudad3"
+          }, 
+          {
+            "values": {
+              "var1": 10, 
+              "var2": 140
+            }, 
+            "name": "Ciudad4"
+          }
+        ]
+      }, 
+      {
+        "name": "Provincia2", 
+        "children": [
+          {
+            "values": {
+              "var1": 8, 
+              "var2": 120
+            }, 
+            "name": "Ciudad5"
+          }, 
+          {
+            "values": {
+              "var1": 11, 
+              "var2": 125
+            }, 
+            "name": "Ciudad6"
+          }, 
+          {
+            "values": {
+              "var1": 12, 
+              "var2": 128
+            }, 
+            "name": "Ciudad7"
+          }, 
+          {
+            "values": {
+              "var1": 16, 
+              "var2": 110
+            }, 
+            "name": "Ciudad8"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Region2", 
+    "children": [
+      {
+        "name": "Provincia3", 
+        "children": [
+          {
+            "values": {
+              "var1": 7, 
+              "var2": 180
+            }, 
+            "name": "Ciudad9"
+          }, 
+          {
+            "values": {
+              "var1": 4, 
+              "var2": 125
+            }, 
+            "name": "Ciudad10"
+          }, 
+          {
+            "values": {
+              "var1": 5, 
+              "var2": 145
+            }, 
+            "name": "Ciudad11"
+          }, 
+          {
+            "values": {
+              "var1": 9, 
+              "var2": 175
+            }, 
+            "name": "Ciudad12"
+          }
+        ]
+      }, 
+      {
+        "name": "Provincia4", 
+        "children": [
+          {
+            "values": {
+              "var1": 12, 
+              "var2": 165
+            }, 
+            "name": "Ciudad13"
+          }, 
+          {
+            "values": {
+              "var1": 14, 
+              "var2": 170
+            }, 
+            "name": "Ciudad14"
+          }, 
+          {
+            "values": {
+              "var1": 18, 
+              "var2": 165
+            }, 
+            "name": "Ciudad15"
+          }, 
+          {
+            "values": {
+              "var1": 13, 
+              "var2": 190
+            }, 
+            "name": "Ciudad16"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Region3", 
+    "children": [
+      {
+        "name": "Provincia5", 
+        "children": [
+          {
+            "values": {
+              "var1": 1, 
+              "var2": 155
+            }, 
+            "name": "Ciudad17"
+          }, 
+          {
+            "values": {
+              "var1": 2, 
+              "var2": 120
+            }, 
+            "name": "Ciudad18"
+          }, 
+          {
+            "values": {
+              "var1": 3, 
+              "var2": 125
+            }, 
+            "name": "Ciudad19"
+          }, 
+          {
+            "values": {
+              "var1": 16, 
+              "var2": 135
+            }, 
+            "name": "Ciudad20"
+          }
+        ]
+      }, 
+      {
+        "name": "Provincia6", 
+        "children": [
+          {
+            "values": {
+              "var1": 12, 
+              "var2": 145
+            }, 
+            "name": "Ciudad21"
+          }, 
+          {
+            "values": {
+              "var1": 11, 
+              "var2": 130
+            }, 
+            "name": "Ciudad22"
+          }, 
+          {
+            "values": {
+              "var1": 9, 
+              "var2": 120
+            }, 
+            "name": "Ciudad23"
+          }, 
+          {
+            "values": {
+              "var1": 8, 
+              "var2": 140
+            }, 
+            "name": "Ciudad24"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Region4", 
+    "children": [
+      {
+        "name": "Provincia7", 
+        "children": [
+          {
+            "values": {
+              "var1": 11, 
+              "var2": 175
+            }, 
+            "name": "Ciudad25"
+          }, 
+          {
+            "values": {
+              "var1": 19, 
+              "var2": 140
+            }, 
+            "name": "Ciudad26"
+          }, 
+          {
+            "values": {
+              "var1": 21, 
+              "var2": 135
+            }, 
+            "name": "Ciudad27"
+          }, 
+          {
+            "values": {
+              "var1": 9, 
+              "var2": 180
+            }, 
+            "name": "Ciudad28"
+          }
+        ]
+      }, 
+      {
+        "name": "Provincia8", 
+        "children": [
+          {
+            "values": {
+              "var1": 11, 
+              "var2": 175
+            }, 
+            "name": "Ciudad29"
+          }, 
+          {
+            "values": {
+              "var1": 19, 
+              "var2": 140
+            }, 
+            "name": "Ciudad30"
+          }, 
+          {
+            "values": {
+              "var1": 21, 
+              "var2": 135
+            }, 
+            "name": "Ciudad31"
+          }, 
+          {
+            "values": {
+              "var1": 9, 
+              "var2": 180
+            }, 
+            "name": "Ciudad32"
+          }
+        ]
+      }
+    ]
+  }
+]
